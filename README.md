@@ -25,7 +25,6 @@ The schedule can be edited easily from a web interface on your phone.
 | Jumper wires | ✔️ | Connections |
 | Breadboard (optional) | ✔️ | Testing |
 
-> ❌ **No LCD / OLED display is used**
 
 ---
 
